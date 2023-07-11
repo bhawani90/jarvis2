@@ -1,0 +1,3 @@
+export const MAKE_REQUEST='MAKE_REQUEST'
+export const FAIL_REQUEST='FAIL_REQUEST'
+export const GET_TENANT_LIST='GET_TENANT_LIST'

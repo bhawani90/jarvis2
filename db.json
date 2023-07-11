@@ -1,0 +1,27 @@
+{
+  "tenantdata": [
+    {
+      "id": 4013,
+      "tenant": "https://qatest.qa.local/",
+      "type": "QA",
+      "userid": "webuiqe@netskope.com"
+    },{
+      "id": 4004,
+      "tenant": "https://apptest.qa.local/",
+      "type": "QA",
+      "userid": "webuiqe@netskope.com"
+    }
+  ],
+  "tasks": [
+    {
+      "taskid": 123445,
+      "status": "complete",
+      "triggeredby": "admin@netskope.com"
+    },
+    {
+      "taskid": 9876,
+      "status": "failed",
+      "triggeredby": "admin@netskope.com"
+    }
+  ]
+}
